@@ -1,0 +1,18 @@
+
+============== Shape Details ==============
+
+Shape 1:
+Shape Color: Red, Shape Type: Circle, Radius: 5.0, Area: 78.53981633974483
+Drawing Instructions: Draw a circle with radius 5.0
+--------------------------------------------------
+Shape 2:
+Shape Color: Blue, Shape Type: Cube, Side: 3.0, Area: 54.0
+Drawing Instructions: Draw a cube with side length 3.0
+--------------------------------------------------
+
+============== Summary ==============
+
+Total Number of Shapes Created: 2
+Total Area of all shapes: 132.53981633974485
+
+=====================================
