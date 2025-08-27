@@ -15,4 +15,4 @@ The **Shape Sizer** application allows users to create and display shapes (e.g.,
 ## How to Run
 1. Clone the repo:
    ```bash
-   git clone https://github.com/your-username/Shape-Sizer.git
+   git clone https://github.com/shaimamamdouh/Shape-Sizer.git
